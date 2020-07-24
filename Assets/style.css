@@ -1,0 +1,14 @@
+.btn-lg {
+    border: 1px solid #343A3F;    
+    color: #343A3F; 
+    width: 200px;  
+    font-size: 18px;  
+    display: block;    
+    margin-top: 5px;  
+    text-align: left
+}
+.row {
+    text-align: left;
+    margin: 0em;
+    padding-left: 0px;
+}
