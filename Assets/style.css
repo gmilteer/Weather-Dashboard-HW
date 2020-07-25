@@ -1,4 +1,4 @@
-.btn-lg {
+.btn-lrg {
     border: 1px solid #343A3F;    
     color: #343A3F; 
     width: 200px;  
@@ -7,8 +7,71 @@
     margin-top: 5px;  
     text-align: left
 }
+body {
+    color: #343A3F;
+}
+
+.container {
+    margin-top: 40px;
+    margin-left: 0;
+}
+
+.col-md-4 {
+    padding-right: 65px;
+}
+
+.lead {
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+hr {
+    border-width: 2px;
+}
+
+.col-md-2 {
+    border: 2px solid #343A3F;
+    padding: 5px 5px 5px 5px;
+    margin-top: 25px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.search {
+    margin-top: 5px;
+}
 .row {
     text-align: left;
     margin: 0em;
     padding-left: 0px;
 }
+
+.forecast-temp {
+    text-align: left;
+    font-size: 15px;
+}
+
+.forecast-humidity {
+    text-align: left;
+    font-size: 15px;
+}
+#temperature{ 
+    text-align: left
+}
+#humidity {  
+    text-align: left
+}
+#wind-speed{
+    text-align: left
+}
+ #uv-index {
+    text-align: left;
+    
+ }
+
+
+
